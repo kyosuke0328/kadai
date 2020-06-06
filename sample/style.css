@@ -68,7 +68,12 @@ main{
 
   .step-box {
     float:none;
-    margin-bottom: 20px;
+    width: 100%;
+    
+
+  }
+  .step-box:nth-child(2) {
+    margin: 20px 0;
   }
 
   }
